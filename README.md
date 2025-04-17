@@ -9,7 +9,7 @@
 
 - 🚀 Proficient in **Javascript, Typescript, Node.js, and C++.**
 
-- 💬 Ask me about **data structure and algorithms, competitive programming, cryptography, cybersecurity technologies, and advanced backend development techniques.**
+- 💬 Ask me about **Data Structures and Algorithms, Competitive Programming, CTFs, Cybersecurity Technologies, and Frontend and Backend Development Techniques.**
 
 - 📫 How to reach me **kumarshivam63834@gmail.com**
 
