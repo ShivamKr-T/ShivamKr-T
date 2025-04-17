@@ -39,3 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkr-t&" alt="shivamkr-t" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkr-t&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkr-t" /> </p>
+
+## 🐍 Snake Eating My Contributions
+
+![snake gif](https://github.com/shivamkr-t/shivamkr-t/blob/output/snake.svg)
