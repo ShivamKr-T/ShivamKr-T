@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarshivam63834@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1rFGXHfUMifHnsSRFikLptDa5ZKhrwSm5/view?usp=sharing]))
+- 📄 [Know about my experiences (Resume)](https://drive.google.com/file/d/1rFGXHfUMifHnsSRFikLptDa5ZKhrwSm5/view?usp=sharing)
 
 - ⚡ Fun fact **I’ve got a good sense of humor, so expect some code with a side of laughs!**
 
