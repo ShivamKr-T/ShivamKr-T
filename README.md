@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate full stack developer with deep algorithmic knowledge, and a growing interest in cybersecurity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkr-t" alt="shivamkr-t" /></a> </p>
 
 - 🔭 I have experience in **problem setting for competitive programming as well as in Capture The Flag (CTF) challenges**
 
