@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kumarshivam63834@gmail.com**
 
-- 📄 Know about my experiences [(Portfolio)](portfolio-hazel-mu-64.vercel.app/)
+- 📄 Know about my experiences [(Portfolio)](https://portfolio-hazel-mu-64.vercel.app/)
 
 - ⚡ Fun fact **I’ve got a good sense of humor, so expect some code with a side of laughs!**
 
