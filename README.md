@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [(Resume)](https://drive.google.com/file/d/1lECVrwRTXSRmmR7L4r-ahB8rbnR05aHv/view?usp=sharing)
 
+- 🧠 Check out some of my projects and achievements [(Portfolio)](https://portfolio-hazel-mu-64.vercel.app/)
+
 - ⚡ Fun fact **I’ve got a good sense of humor, so expect some code with a side of laughs!**
 
 <h3 align="left">Connect with me:</h3>
